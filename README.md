@@ -1,16 +1,17 @@
 
-## The _ab initio_ amorphous **structure** database: Empowering machine learning to decode diffusivity 
+# The _ab initio_ amorphous **structure** database: Empowering machine learning to decode diffusivity
 
-**Hui Zheng,$^{1}$ Eric Sivonxay,$^{2, 3}$ Rasmus Christensen $^{1, 4}$, Max Gallant,$^{1,2}$  
-Ziyao Luo,$^{1}$ Matthew McDermott,$^{1, 2}$ Patrick Huck,$^{1}$  
-Morten M. Smedskjaer,$^{4}$ Kristin A. Persson,$^{1, 2}$**
+**Hui Zheng,<sup>1</sup> Eric Sivonxay,<sup>2, 3</sup> Rasmus Christensen <sup>1, 4</sup>, Max Gallant,<sup>1,2</sup>  
+Ziyao Luo,<sup>1</sup> Matthew McDermott,<sup>1, 2</sup> Patrick Huck,<sup>1</sup>  
+Morten M. Smedskjaer<sup>4</sup>, Kristin A. Persson<sup>1*</sup>**
 
-$^{1}$ Materials Science Division, Lawrence Berkeley National Laboratory, Berkeley, CA, USA  
-$^{2}$ Materials Science and Engineering, University of California, Berkeley, Berkeley, CA, USA  
-$^{3}$ Energy Technologies Area, Lawrence Berkeley National Laboratory, Berkeley, CA, USA  
-$^{4}$ Department of Chemistry and Bioscience, Aalborg University, Aalborg, Denmark  
+<sup>1</sup> Materials Science Division, Lawrence Berkeley National Laboratory, Berkeley, CA, USA  
+<sup>2</sup> Materials Science and Engineering, University of California, Berkeley, Berkeley, CA, USA  
+<sup>3</sup> Energy Technologies Area, Lawrence Berkeley National Laboratory, Berkeley, CA, USA  
+<sup>4</sup> Department of Chemistry and Bioscience, Aalborg University, Aalborg, Denmark  
 
 **\*** E-mail: [kapersson@lbl.gov](mailto:kapersson@lbl.gov)
+
 
 ### Supplementary Data Codes
 This repository includes the data and analysis code used in the paper listed above. 
