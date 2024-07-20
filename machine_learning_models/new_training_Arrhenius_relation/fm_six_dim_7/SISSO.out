@@ -1,0 +1,100 @@
+****************************************************************
+  Sure Independence Screening and Sparsifying Operator (SISSO)  
+             Version SISSO.3.3, July, 2023.                
+****************************************************************
+
+Read in data from train.dat
+Read in data from SISSO.in
+Property type:     1
+Number of tasks:        1
+Descriptor dimension:       10
+Number of samples for the task(s):    792
+Restarts :  1
+Number of scalar features:       43
+Tier of the feature space:        3
+Maximal feature complexity (number of operators in a feature):        7
+Unit of input primary feature, each represented by a row vector: 
+    0.00
+    0.00
+    0.00
+    0.00
+    0.00
+    0.00
+    0.00
+    0.00
+    0.00
+    0.00
+    0.00
+    0.00
+    0.00
+    0.00
+    0.00
+    0.00
+    0.00
+    0.00
+    0.00
+    0.00
+    0.00
+    0.00
+    0.00
+    0.00
+    0.00
+    0.00
+    0.00
+    0.00
+    0.00
+    0.00
+    0.00
+    0.00
+    0.00
+    0.00
+    0.00
+    0.00
+    0.00
+    0.00
+    0.00
+    0.00
+    0.00
+    0.00
+    0.00
+The feature will be discarded if the minimum of the maximal abs. value in it <    0.10000E-02
+The faature will be discarded if the maximum of the maximal abs. value in it >     0.10000E+06
+Size of the SIS-selected (single) subspace :     20    20    20    20    20    20    20    20    20    20
+Operators for feature construction:    
+Method for sparse regression:  L0        
+Fitting intercept:      T
+Metric for model selection: RMSE
+Number of the top-ranked models to output:      100
+--------------------------------------------------------------------------------
+
+Dimension:   7
+-------------------
+
+Descriptor Identification (DI) starts ...
+Total number of SIS-selected features from all dimensions:         43
+ 
+  7D descriptor: 
+     d001 = (inverse_kbT)    feature_ID:000001
+     d002 = (LNC)    feature_ID:000002
+     d003 = (avg_X_with_Li)    feature_ID:000006
+     d004 = (atomic_radius_avg_exclude_Li)    feature_ID:000011
+     d005 = (LLB)    feature_ID:000024
+     d006 = (ER2_m_with_Li)    feature_ID:000030
+     d007 = (PF)    feature_ID:000043
+
+  7D model(y=sum(ci*di)+c0): 
+     coeff.(ci)_task001:    -0.3341480862E+00   -0.1181757274E+00    0.7152811202E+00    0.9090870823E+00    0.1531015276E+00    0.1241729324E+01   -0.2104483227E+01
+             c0_task001:    -0.6356036049E+01
+     RMSE,MaxAE_task001:     0.3471734213E+00    0.2157747919E+01
+
+     RMSE and MaxAE of the model:   0.347173  2.157748
+--------------------------------------------------------------------------------
+Time (second) used for this DI:         2379.73
+
+Dimension:   8
+-------------------
+Feature Construction (FC) starts ...
+Wrning: Size of the last selected subspace < nf_sis! No more FC will be performed.
+
+Descriptor Identification (DI) starts ...
+Total number of SIS-selected features from all dimensions:         43

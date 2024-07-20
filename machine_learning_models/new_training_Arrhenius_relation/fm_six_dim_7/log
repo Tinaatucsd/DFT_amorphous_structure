@@ -1,0 +1,18 @@
+
+Dimension:   7
+-------------------
+
+Descriptor Identification (DI) starts ...
+dimension =   7   mpirank =    0   progress =  20.0%
+dimension =   7   mpirank =    0   progress =  40.0%
+dimension =   7   mpirank =    0   progress =  60.0%
+dimension =   7   mpirank =    0   progress =  80.0%
+dimension =   7   mpirank =    0   progress = 100.0%
+
+Dimension:   8
+-------------------
+Feature Construction (FC) starts ...
+Warning: Size of the last selected subspace < nf_sis! No more FC will be performed.
+
+Descriptor Identification (DI) starts ...
+dimension =   8   mpirank =    0   progress =  20.0%
