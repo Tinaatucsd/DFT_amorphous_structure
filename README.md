@@ -17,4 +17,4 @@ Morten M. Smedskjaer<sup>4</sup>, Kristin A. Persson<sup>1*</sup>**
 This repository includes the data and analysis code used in the paper listed above. 
 
 The structures from AIMD and the diffusivity data of the 5000K database (~4.3GB) and multi-temperature database (~1GB) can be downloaded from figshare
-[link](https://figshare.com/s/30601968f9244d8dffaa)
+[link](https://figshare.com/s/30601968f9244d8dffaa) and MPContribs [link](https://contribs.materialsproject.org/projects/amorphous_diffusivity).
