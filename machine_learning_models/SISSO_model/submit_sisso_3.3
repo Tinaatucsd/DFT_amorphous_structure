@@ -1,0 +1,15 @@
+#!/bin/bash
+#SBATCH -J sisso
+#SBATCH -A matgen_g
+#SBATCH -q debug
+#SBATCH -t 00:30:00
+#SBATCH -N 1
+#SBATCH -C gpu
+#SBATCH -G 4
+#SBATCH -o %x-%j.out
+#SBATCH -e %x-%j.err
+
+#module load impi
+
+#srun SISSO >log
+srun /global/homes/h/huizheng/bin/SISSO > log
