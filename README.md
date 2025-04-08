@@ -18,3 +18,5 @@ This repository includes the data and analysis code used in the paper listed abo
 
 The structures from AIMD and the diffusivity data of the 5000K database (~4.3GB) and multi-temperature database (~1GB) can be downloaded from figshare
 [link](https://figshare.com/s/30601968f9244d8dffaa) and MPContribs [link](https://contribs.materialsproject.org/projects/amorphous_diffusivity).
+
+The trajectories of all the AIMD runs can be downloaded from MPContribs [link](https://materialsproject-contribs.s3.amazonaws.com/index.html#amorphous_diffusivity/)
